@@ -1,4 +1,4 @@
-"An Exploration of WPA2-Personal Security"
+# "An Exploration of WPA2-Personal Security"
 
 This git repository contains:
  - README.md: a readme file which re-iterates some of the points in this section about compilation and running the program.
