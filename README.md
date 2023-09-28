@@ -1,5 +1,9 @@
 # "An Exploration of WPA2-Personal Security"
 
+Intented Attack Senario Diagram:
+![wpadesign](https://github.com/TomSchoolar/Final-Year-Project/assets/55384362/61c07ef1-5214-42d0-8288-ae80ae9658f1)
+
+
 This git repository contains:
  - README.md: a readme file which re-iterates some of the points in this section about compilation and running the program.
  - aesDecrypter.py: a Python script used for encrypting and decrypting with the AES cipher.
@@ -66,7 +70,3 @@ python aesDecrypter.py encryption_key mac_address nonce data
 python checksumCalculator.py data
 python frameCheckSequenceCalculator.py data
 ```
-
-
-Attack Senario Diagram:
-![wpadesign](https://github.com/TomSchoolar/Final-Year-Project/assets/55384362/61c07ef1-5214-42d0-8288-ae80ae9658f1)
