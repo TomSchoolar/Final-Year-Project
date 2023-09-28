@@ -63,10 +63,10 @@ Python Usages if you want to run the python code separately (you must have the l
 ```
 python aesDecrypter.py encryption_key mac_address nonce data
 
-Attack Senario Diagram:
-![wpadesign](https://github.com/TomSchoolar/Final-Year-Project/assets/55384362/527bd121-a957-4a61-95f5-d42303e3a202)
-
 python checksumCalculator.py data
 python frameCheckSequenceCalculator.py data
 ```
 
+
+Attack Senario Diagram:
+![wpadesign](https://github.com/TomSchoolar/Final-Year-Project/assets/55384362/61c07ef1-5214-42d0-8288-ae80ae9658f1)
