@@ -61,7 +61,11 @@ The program was tested using a Samsung Galaxy A20e (Android 10) mobile hotspot a
 
 Python Usages if you want to run the python code separately (you must have the libraries installed as before):
 ```
-python aesDecrypter.py encryption_key mac_address nonce data 
+python aesDecrypter.py encryption_key mac_address nonce data
+
+Attack Senario Diagram:
+![wpadesign](https://github.com/TomSchoolar/Final-Year-Project/assets/55384362/527bd121-a957-4a61-95f5-d42303e3a202)
+
 python checksumCalculator.py data
 python frameCheckSequenceCalculator.py data
 ```
